@@ -1,0 +1,31 @@
+# Logs
+brainly-frontend/logs
+brainly-frontend/*.log
+brainly-frontend/npm-debug.log*
+brainly-frontend/yarn-debug.log*
+brainly-frontend/yarn-error.log*
+brainly-frontend/pnpm-debug.log*
+brainly-frontend/lerna-debug.log*
+brainly-frontend/node_modules
+brainly-frontend/dist
+brainly-frontend/dist-ssr
+brainly-frontend/*.local
+
+# Editor directories and files
+brainly-frontend/.vscode/*
+brainly-frontend/!.vscode/extensions.json
+brainly-frontend/.idea
+brainly-frontend/.DS_Store
+brainly-frontend/*.suo
+brainly-frontend/*.ntvs*
+brainly-frontend/*.njsproj
+brainly-frontend/*.sln
+brainly-frontend/*.sw?
+brainly-frontend/src/hooks/
+brainly/node_modules/*
+brainly/dist/
+brainly/.env
+brainly/src/config.ts
+brainly-frontend/public/vite.svg
+brainly-frontend/.env
+brainly-frontend/tailwind.config.js
