@@ -22,10 +22,13 @@ brainly-frontend/*.njsproj
 brainly-frontend/*.sln
 brainly-frontend/*.sw?
 brainly-frontend/src/hooks/
-brainly/node_modules/*
-brainly/dist/
-brainly/.env
-brainly/src/config.ts
 brainly-frontend/public/vite.svg
 brainly-frontend/.env
 brainly-frontend/tailwind.config.js
+
+# backend
+
+brainly-backend/node_modules/*
+brainly-backend/dist/
+brainly-backend/.env
+brainly-backend/src/config.ts
