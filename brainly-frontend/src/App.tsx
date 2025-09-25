@@ -8,7 +8,7 @@ import Dashboard from './pages/DashboardPage';
 import SearchPage from './pages/SearchPage';
 import PublicSharePage from './pages/PublicSharePage';
 import { Toaster } from "react-hot-toast";
-import LandingPage from './pages/LandingPage';
+import LandingPage from './pages/landingpage';
 import Bin from './pages/BinPage';
 
 
