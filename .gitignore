@@ -24,11 +24,9 @@ brainly-frontend/*.sw?
 brainly-frontend/src/hooks/
 brainly-frontend/public/vite.svg
 brainly-frontend/.env
-brainly-frontend/tailwind.config.js
 
 # backend
 
-brainly-backend/node_modules/*
+brainly-backend/node_modules/
 brainly-backend/dist/
 brainly-backend/.env
-brainly-backend/src/config.ts
